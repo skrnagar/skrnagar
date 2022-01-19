@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @skrnagar
-- 👀 I’m interested in ... wordpress, react, Javascript 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sunil Nagar.
+- 👀 I’m interested in > Wordpress, React,Angular, Javascript, Html, Data sciences.
+- 🌱 I’m currently learning ... DBMS.
+- 💞️ I’m looking to collaborate on ... back-end development.
+- 📫 How to reach me ... Mail@ skngrp@gmail.com.
 
 <!---
 skrnagar/skrnagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
