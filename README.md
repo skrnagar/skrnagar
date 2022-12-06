@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunil Nagar.
-- 👀 I’m interested in > Wordpress, React,Angular, Javascript, Html, Data sciences.
-- 🌱 I’m currently learning ... DBMS.
+- 👀 I’m interested in > Web Application, React, Angular, Javascript, UI/UX, Wordpress CMS, Data sciences/ Data Analyst.
+- 🌱 I’m currently learning ... Python, Docker, AWS, DBMS, System design.
 - 💞️ I’m looking to collaborate on ... back-end development.
 - 📫 How to reach me ... Mail@ skngrp@gmail.com.
 
